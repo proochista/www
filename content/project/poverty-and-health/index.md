@@ -19,11 +19,11 @@ tags = ["poverty", "health"]
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-Research in this area is undertaken in collaboration with the Young Lives project, a prospective study of the dynamics of childhood poverty in four countries (Peru, Vietnam, Ethiopia, and India).  Projects include investigations of nutrition, healthcare, health behaviours and self-rated health in relation to characteristics of poverty. 
+Research in this area is undertaken in collaboration with the [Young Lives](https://www.younglives.org.uk) project, a prospective study of the dynamics of childhood poverty in four countries (Peru, Vietnam, Ethiopia, and India).  Projects include investigations of nutrition, healthcare, health behaviours and self-rated health in relation to characteristics of poverty.

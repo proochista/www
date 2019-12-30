@@ -19,13 +19,13 @@ tags = ["transition", "health"]
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-**Rural China:** An investigation into the distal, intermediate snd proximal determinants of health amidst rapid economic growth. This is part of an IDRC funded research project examining human resource in health needs in rural China in collaboration with the Centre for Human and Economic Development Studies (CHEDS), Department of Economics, PKU, and the health and human resource division (HHRDC), Ministry of Health, People's Republic of China
+**Rural China:** An investigation into the distal, intermediate snd proximal determinants of health amidst rapid economic growth. This is part of an [IDRC](https://www.idrc.ca/en) funded research project examining human resource in health needs in rural China in collaboration with the Centre for Human and Economic Development Studies (CHEDS), [Department of Economics, PKU](http://econ.pku.edu.cn/english/index.htm), and the health and human resource division (HHRDC), Ministry of Health, People's Republic of China
 
 **Indigenous communities:** A mixed methods approach to assessing how processes of development affect the health (broadly defined) of indigenous communities.
