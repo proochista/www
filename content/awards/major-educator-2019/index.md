@@ -6,17 +6,17 @@ summary: Major Educator in the Medical Sciences Division in the Oxford Teaching 
 date: "2019-11-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.medsci.ox.ac.uk/divisional-services/support-services-1/educational-strategy/teaching-excellence-awards/previous-awards/2019/2019-awardees"
+external_link: ""
 
 image:
   caption: 
   focal_point: Smart
 
-#links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/intdevhealth
+links:
+- icon: award
+  icon_pack: fas
+  name: Awards site
+  url: https://www.medsci.ox.ac.uk/divisional-services/support-services-1/educational-strategy/teaching-excellence-awards/previous-awards/2019/2019-awardees
 url_code: ""
 url_pdf: ""
 url_slides: ""
