@@ -1,82 +1,66 @@
-+++
-title = "The Social Implications of Technology Diffusion: Uncovering the Unintended Consequences of People's Health-Related Mobile Phone Use in Rural India and China"
-date = 2017-02-17T00:00:00
+---
+title: "Analyzing demand-side efficiency in global health: an application to maternal care in Vietnam"
+authors:
+- Elizabeth Radin
+- admin
+- Tom Broekel
+- Toan Khanh Tran
+date: "2016-05-30T00:00:00Z"
+doi: "https://doi.org/10.1093/heapol/czw063"
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Marco Haenssgen", "Proochista Ariana"]
+# Schedule page publish date (NOT publication's date).
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Preprint / Working Paper
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-# 7 = Thesis
-# 8 = Patent
-publication_types = ["2"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
 
-# Publication name and optional abbreviated version.
-publication = "*World Development*"
-publication_short = "World Dev"
+# Publication name and optional abbreviated publication name.
+publication: "*Health Policy and Planning*"
+publication_short: "Health Policy Plan"
 
-# Abstract.
-abstract = "After three decades of mobile phone diffusion, thousands of mobile-phone-based health projects worldwide (“mHealth”), and hundreds of thousands of smartphone health applications, fundamental questions about the effect of phone diffusion on people's healthcare behavior continue to remain unanswered. This study investigated whether, in the absence of specific mHealth interventions, people make different healthcare decisions if they use mobile phones during an illness. Following mainstream narratives, we hypothesized that phone use during an illness (a) increases and (b) accelerates healthcare access. Our study was based on original survey data from 800 respondents in rural Rajasthan (India) and Gansu (China), sampled from the general adult population in 2014 in a three-stage stratified cluster random sampling design. We analyzed single- and multi-level logistic, Poisson, and negative binomial regression models with cluster-robust standard errors. Contrary to other research at the intersection of mobile phones and healthcare, we captured actual health-related mobile phone use during people's illnesses irrespective of whether they own a phone. Our analysis produced the first quantitative micro-evidence that patients’ personal mobile phone use is correlated with their healthcare decisions. Despite a positive association between phone use and healthcare access, health-related phone use was also linked to delayed access to public doctors and nurses. We considered theoretical explanations for the observed patterns by augmenting transaction cost and information deficit arguments with the prevailing health system configuration and with notions of heuristic decision-making during the healthcare-seeking process. Our study was a first step toward understanding the implications of mobile technology diffusion on health behavior in low- and middle-income countries in the absence of specific mHealth interventions. Future research will have to explore the causal relationships underlying these statistical associations. Such a link could potentially mean that development interventions aimed at improving access to healthcare continue to require conventional solutions to sustain healthcare equity."
+abstract: This article investigates demand-side efficiency in global health—or the efficiency with which health system users convert public health resources into health outcomes. We introduce and explain the concept of demand-side efficiency as well as quantitative methods to empirically estimate it. Using a robust nonparametric form of technical efficiency analysis, we estimate demand side efficiency and its social determinants. We pilot these methods looking at how efficiently pregnant women in Northern Vietnam convert public health resources into appropriate maternal care as defined by national policy. We find that women who live in non-mountainous geographies, who are formally employed, who are pregnant with a boy and who are ethnic minorities are all more likely to be efficient at achieving appropriate care. We find no significant association between wealth or education and efficiency. Our results suggest that, in the Vietnamese context, women who are the most likely to achieve appropriate maternal care, are not necessarily the most likely to do so efficiently. Women who live in non-mountainous geographies and who are formally employed are both more likely to achieve appropriate care and to do so efficiently. Yet ethnic minority women, who do not systematically achieve better care, are more likely to be efficient or to achieve better care when compared with those with the same endowment of public health resources. On the methodological level, the pilot highlights that this approach can provide useful information for policy by identifying which groups of people are more and less likely to be efficient. By understanding which groups are more likely to be efficient—and in turn how and why—it may be possible to devise policies to promote the drivers of, or conversely address the constraints to, optimizing demand-side efficiency.
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary: This article investigates demand-side efficiency in global health—or the efficiency with which health system users convert public health resources into health outcomes.
 
-# Digital Object Identifier (DOI)
-doi = "10.1016/j.worlddev.2017.01.014"
+tags:
+- Source Themes
+featured: false
 
-# Is this a featured publication? (true/false)
-featured = false
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://watermark.silverchair.com/czw063.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAmAwggJcBgkqhkiG9w0BBwagggJNMIICSQIBADCCAkIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMU8_9-usfKDHqPgdUAgEQgIICEyNYU-ycCH5_uF2W2yatFVZWsu3gXCBiMR0tPAhQZuifHR_lIFoG_m7EJlKyrO-QEPYX1bD_nIz-Zd1o6sb22h3my2QmHcarCc8kpVjWfgO4OsA5HVqhKNJXEdh9MEseo0tVqS3ypSb1jESz70wE-KMd1Pj0s967sdU9Isx24bnY0AHKVe3nPr5kfWlUwsOd-Q_nEcmxZKBfRJOwSvn1gtRNRqJjgKHhkYSGuDk1c_JH8IWN6ajlaSZXHI054UWJ9l6Daxbzci1iZrJuJQo_295WH1MbNhEDuItr8DUX1AB1XHosRUmhTeu6ue229CTx3qcFRlEq55Glvs3FAT0jd1BO5iny0PtoFjOMSjzI5gosCbMsuZG9h7L-nWCrouDLNFpfoGvw_lunfVzlkKrwZeWaT7Rv0nJ7mzWSLwGsfpqAB7G0tHRql3S9BmSOfLWaYZ_2-9bU8XtCE3LL_14PRF32zMnAJRCN_qk6NT_omM992gJvAAtVj_sZ9AEdYOkumSXkeqxYx5TP9o5gkfZRfl6gI4N47Ta99X-Y9f75gWNmV_g2-5pfVrbig-JrLTdQVt_r_gLxvq_Yjujfd_wrxPhCJhAEJtiSqNcF_N08CSl-0CVB-APIxESbi8d4xziiVa-XkGwx65WJFOM31kGWSD6XXBpCLtPkkraoI8sbZ_LN9oVzrlgpEbgTECz7RyDW7ofDmg
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["technology diffusion", "mobile phones", "healthcare access", "India", "China", "mHealth"]
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: "Smart"
+  preview_only: false
 
-# Projects (optional).
+# Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects = []
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides = "example"
-
-# Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0305750X17300281/pdfft?md5=bee2189732d0ea75f47755c84f203a5d&pid=1-s2.0-S0305750X17300281-main.pdf"
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- links = [{name = "URL", url = "https://www.sciencedirect.com/science/article/pii/S0305750X17300281?via%3Dihub"}]
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
-
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
 
