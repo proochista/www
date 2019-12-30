@@ -37,11 +37,20 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Educational Development Consultant"
-  company = "Oxford Learning Institute, University of Oxford "
+  company = "Oxford Learning Institute, University of Oxford"
   company_url = "https://pod.admin.ox.ac.uk/oxford-learning-institute-change"
   location = "Oxford, United Kingdom"
   date_start = "2014-04-01"
-  date_end = "2015-01-31"
+  date_end = "2015-01-01"
+  description = """"""
+
+[[experience]]
+  title = "Departmental Lecturer in Global Health and Development"
+  company = "Department of International Development, University of Oxford"
+  company_url = "https://www.qeh.ox.ac.uk"
+  location = "Oxford, United Kingdom"
+  date_start = "2008-10-01"
+  date_end = "2015-01-01"
   description = """"""
 
 +++
