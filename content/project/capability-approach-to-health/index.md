@@ -5,6 +5,7 @@ summary: Capability approach as applied to health.
 
 tags:
 - capability approach
+- health
 
 date: ""
 
