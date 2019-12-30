@@ -15,7 +15,7 @@ image:
 links:
 - icon: award
   icon_pack: fas
-  name: Awards site
+  name: Award site
   url: https://www.medsci.ox.ac.uk/divisional-services/support-services-1/educational-strategy/teaching-excellence-awards/previous-awards/2019/2019-awardees
 url_code: ""
 url_pdf: ""
