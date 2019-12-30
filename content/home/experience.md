@@ -53,4 +53,31 @@ date_format = "Jan 2006"
   date_end = "2015-01-01"
   description = """"""
 
+[[experience]]
+  title = "Director, MSc in Global Health Science"
+  company = "Department of Public Health, University of Oxford"
+  company_url = "https://www.ndph.ox.ac.uk"
+  location = "Oxford, United Kingdom"
+  date_start = "2011-10-01"
+  date_end = "2014-04-01"
+  description = """"""
+
+[[experience]]
+  title = "Director, MSc in Global Health Science"
+  company = "Department of Public Health, University of Oxford"
+  company_url = "https://www.ndph.ox.ac.uk"
+  location = "Oxford, United Kingdom"
+  date_start = "2010-01-01"
+  date_end = "2011-01-31"
+  description = """"""
+
+[[experience]]
+  title = "Teaching and Research Associate"
+  company = "Department Public Health, University of Oxford"
+  company_url = "https://www.ndph.ox.ac.uk"
+  location = "Oxford, United Kingdom"
+  date_start = "2011-10-01"
+  date_end = "2014-04-01"
+  description = """"""
+
 +++
