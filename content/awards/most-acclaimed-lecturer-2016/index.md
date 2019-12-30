@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: newspaper
+- icon: award
   icon_pack: fas
-  name: News
-  url: https://www.medsci.ox.ac.uk/news/medical-sciences-teachers-recognised-at-annual-ousu-teaching-award-ceremony
+  name: Award site
+  url: https://www.oxfordsu.org/ents/event/502/
 url_code: ""
 url_pdf: ""
 url_slides: ""

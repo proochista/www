@@ -16,11 +16,11 @@ image:
   caption: 
   focal_point: Smart
 
-#links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/intdevhealth
+links:
+- icon: award
+  icon_pack: fas
+  name: Award site
+  url: https://www.oxfordsu.org/ents/event/502/
 url_code: ""
 url_pdf: ""
 url_slides: ""
