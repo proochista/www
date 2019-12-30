@@ -18,7 +18,7 @@ links:
   name: Award site
   url: https://www.medsci.ox.ac.uk/divisional-services/support-services-1/educational-strategy/teaching-excellence-awards/previous-awards/2013
 url_code: ""
-url_pdf: "https://www.ox.ac.uk/media/global/wwwoxacuk/localsites/gazette/documents/Teaching_Excellence_Awards_2013.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
