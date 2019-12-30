@@ -3,7 +3,7 @@ title: Major Educator - Medical Sciences Division - 2019
 
 summary: Major Educator in the Medical Sciences Division in the Oxford Teaching Excellence Awards for 2019.
 
-date: "2019-11-01"
+date: "2019-10-23"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
