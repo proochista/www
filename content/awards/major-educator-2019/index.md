@@ -30,3 +30,8 @@ url_video: ""
 slides: ""
 ---
 
+**Dr Proochista Ariana** - for the exceptional impact her vision, integrity, commitment and skills have made towards the success of the [MSc in International Health and Tropical Medicine](https://www.ndm.ox.ac.uk/msc-international-health-and-tropical-medicine), for her capacity building work including through her support for alumni, and for her enthusiasm in encouraging cross-disciplinary collaboration in education.
+
+*“A teacher who inspires becomes a role model; and it's with great confidence that I consider her one. She has truly shown how much she cares about us as individuals and about the great futures she inspires us to seek. It's because of leaders like her that this course is truly unique.”* [Student]
+
+
