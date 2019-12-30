@@ -26,8 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "antimicrobial resistance"
-    tag = "antimicrobial resistance"
+    name = "human development"
+    tag = "human development"
+  
+  [[content.filter_button]]
+    name = "capability approach"
+    tag = "capability approach"
   
   [[content.filter_button]]
     name = "health"
