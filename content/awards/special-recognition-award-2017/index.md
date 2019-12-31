@@ -3,7 +3,7 @@ title: Special Recognition Award - 2017
 
 summary: Special Recognition Award in the OUSU Student-led Teaching Awards for 2017.
 
-date: "2016-04-03"
+date: "2017-04-11"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

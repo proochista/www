@@ -3,7 +3,7 @@ title: Outstanding Supervisor Award - Medical Sciences - 2017
 
 summary: Outstanding Supervisor Award in the Medical Sciences in the OUSU Student-led Teaching Awards for 2017.
 
-date: "2016-04-03"
+date: "2017-04-11"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
