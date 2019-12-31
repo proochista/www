@@ -27,7 +27,11 @@ abstract: This article investigates demand-side efficiency in global health—or
 summary: This article investigates demand-side efficiency in global health—or the efficiency with which health system users convert public health resources into health outcomes.
 
 tags:
-- Source Themes
+- antenatal care
+- demand side
+- maternal health
+- Vietnam
+
 featured: false
 
 # links:
@@ -45,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: "Smart"
   preview_only: false
 
