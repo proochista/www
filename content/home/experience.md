@@ -76,8 +76,35 @@ date_format = "Jan 2006"
   company = "Department Public Health, University of Oxford"
   company_url = "https://www.ndph.ox.ac.uk"
   location = "Oxford, United Kingdom"
-  date_start = "2011-10-01"
-  date_end = "2014-04-01"
+  date_start = "2007-10-01"
+  date_end = "2008-10-31"
+  description = """"""
+
+[[experience]]
+  title = "Teaching and Research Assistant"
+  company = "Department Public Health, University of Oxford"
+  company_url = "https://www.ndph.ox.ac.uk"
+  location = "Oxford, United Kingdom"
+  date_start = "2006-10-01"
+  date_end = "2007-10-31"
+  description = """"""
+
+[[experience]]
+  title = "UNDP Human Development Training Course Coordinator"
+  company = "United Nations Development Programme"
+  company_url = "https://www.undp.org"
+  location = "Oxford, United Kingdom"
+  date_start = "2004-06-01"
+  date_end = "2008-06-01"
+  description = """"""
+
+[[experience]]
+  title = "Researcher"
+  company = "Oxford Poverty and Human Development Initiative"
+  company_url = "https://ophi.org.uk"
+  location = "Oxford, United Kingdom"
+  date_start = "2006-04-01"
+  date_end = "2007-04-01"
   description = """"""
 
 +++
