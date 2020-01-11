@@ -54,24 +54,26 @@ user_groups = []
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  icon = "envelope"
+  icon = "paper-plane"
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "twitter"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "https://twitter.com/intdevhealth"
+  link = "https://www.linkedin.com/in/proochistaariana/"
+
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/proochista"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=z3c3RZoAAAAJ&hl=en"
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/proochista"
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
