@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Director of MSc in International Health and Tropical Medicine, Group Head / PI, Member of congregation, Supervisor and Unit Director"
+role = "Associate Professor - International Development and Health, Director of MSc in International Health and Tropical Medicine"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -54,7 +54,7 @@ user_groups = []
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  icon = "paper-plane"
+  icon = "envelope"
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
@@ -84,5 +84,5 @@ user_groups = []
 
 +++
 
-Dr Proochista Ariana is course director for the MSc in International Health and Tropical Medicine, Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine. Her research empirically examines the relationship between processes of development and health in resource limited and transition contexts, appreciating the multidimensionality of both.
+Proochista Ariana is Associate Professor of International Development and Health and Director of the MSc in International Health and Tropical Medicine, Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine. Her research empirically examines the relationship between processes of development and health in resource limited and transition contexts, appreciating the multidimensionality of both.
 
