@@ -36,17 +36,17 @@ user_groups = []
 [[education.courses]]
   course = "Post Graduate Diploma in Learning and Teaching in Higher Education"
   institution = "University of Oxford"
-  year = 2009
+  year = ""
   
 [[education.courses]]
   course = "DPhil in International Development"
   institution = "University of Oxford"
-  year = 2008
+  year = ""
 
 [[education.courses]]
   course = "MS in Internatioal Health"
   institution = "Harvard University"
-  year = 1998
+  year = ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
