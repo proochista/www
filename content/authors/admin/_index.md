@@ -44,7 +44,7 @@ user_groups = []
   year = ""
 
 [[education.courses]]
-  course = "MS in Internatioal Health"
+  course = "MS in International Health"
   institution = "Harvard University"
   year = ""
 
